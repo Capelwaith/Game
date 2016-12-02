@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imagen">
+        <file>../../Documents/Programacion/Tank/Game_2/Proyecto-master/Tank/Tank/Inicio.jpg</file>
+    </qresource>
+</RCC>
